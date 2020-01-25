@@ -1,5 +1,5 @@
 {
-  "name": "refractor-svelte",
+  "name": "@snlab/refractor-svelte",
   "version": "0.0.1",
   "description": "Svelte language extension for refractor",
   "main": "index.js",
