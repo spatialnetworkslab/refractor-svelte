@@ -1,18 +1,18 @@
 {
   "name": "@snlab/refractor-svelte",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Svelte language extension for refractor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-		"svelte",
-		"prism",
-		"highlight",
+    "svelte",
+    "prism",
+    "highlight",
     "syntax",
     "refractor"
-	],
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://atepoorthuis@github.com/spatialnetworkslab/refractor-svelte.git"
